@@ -5,11 +5,22 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: '#1B658E',
-        secondary: '#B03A3A',
-        accent: '#FFD700',
-        background: '#ECF0F1',
-        text: '#2C3E50',
+        primary: '#003865',
+        secondary: '#FF6347',
+        accent: '#F0C808',
+        background: '#F5F5F5',
+        text: '#333333',
+
+        dark: {
+          primary: '#1E3A8A',  
+          secondary: '#FF4500', 
+          background: '#1A202C', 
+          text: '#E5E7EB',      
+          cardBackground: '#2D3748', 
+          cardText: '#CBD5E0',       
+          titleText: '#FFFFFF',      
+          accent: '#F0C808',        
+        },
       },
       fontFamily: {
         heading: ['Montserrat', 'sans-serif'],
@@ -18,5 +29,6 @@ module.exports = {
       },
     },
   },
+  darkMode: 'class', 
   plugins: [],
 }

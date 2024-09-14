@@ -38,7 +38,7 @@ function Projects() {
         <div
             ref={ref}
             id="projects"
-            className={`min-h-screen p-5 bg-background text-text transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`}
+            className={`min-h-screen p-5 bg-background text-text dark:bg-dark-background dark:text-dark-text transition-opacity duration-1000 ${isVisible ? 'opacity-100' : 'opacity-0'}`}
         >
             <h1 className="text-6xl font-heading mb-8 text-center">Projects</h1>
             <div className="flex flex-wrap justify-center gap-8">
