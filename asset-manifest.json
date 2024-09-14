@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personal-website-app/static/css/main.732340da.css",
+    "main.js": "/personal-website-app/static/js/main.239dfa90.js",
+    "static/js/453.d43789ce.chunk.js": "/personal-website-app/static/js/453.d43789ce.chunk.js",
+    "static/media/Uccio (League).jpeg": "/personal-website-app/static/media/Uccio (League).5c46014c0164e0b688df.jpeg",
+    "static/media/Football Club App.png": "/personal-website-app/static/media/Football Club App.5625f12be76dc296a708.png",
+    "static/media/PokedexClient.png": "/personal-website-app/static/media/PokedexClient.f2031bb995aadaa829ef.png",
+    "static/media/Guess The Flag App.png": "/personal-website-app/static/media/Guess The Flag App.20cb67fea6445df19f35.png",
+    "index.html": "/personal-website-app/index.html",
+    "main.732340da.css.map": "/personal-website-app/static/css/main.732340da.css.map",
+    "main.239dfa90.js.map": "/personal-website-app/static/js/main.239dfa90.js.map",
+    "453.d43789ce.chunk.js.map": "/personal-website-app/static/js/453.d43789ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.732340da.css",
+    "static/js/main.239dfa90.js"
+  ]
+}
